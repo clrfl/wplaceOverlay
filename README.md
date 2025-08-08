@@ -19,7 +19,7 @@
 
 > [!TIP]
 > If you don't have any experience with programming, and struggle to get the python script running:
-> You can download python from [Python.org](https://www.python.org/), and install the required packages using `pip`.
+> You can download python from [Python.org](https://www.python.org/), and install the required packages using `pip install -r requirements.txt`.
 > There are guides on the internet that will help you with that.
 
 ### Adjust blueprints
